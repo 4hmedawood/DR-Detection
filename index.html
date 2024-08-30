@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diabetic Retinopathy Detection</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Diabetic Retinopathy Detection</h1>
+    <p>Upload a picture of your retina to see if you have Diabetic Retinopathy.</p>
+    <input type="file" id="file-input" accept="image/*">
+    <img src="" id="preview">
+    <button id="predict-button">Predict</button>
+    <div id="result-container">
+      <p>Result:</p>
+      <span id="result-text"></span>
+    </div>
+    <p class="disclaimer">This is not a substitute for a medical diagnosis. Please consult your doctor if you have any concerns.</p>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
