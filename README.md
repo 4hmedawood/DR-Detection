@@ -55,9 +55,7 @@ Selecting of image for detection
 Result of detection with uploaded image
 ![image](https://github.com/user-attachments/assets/6bacabb3-99fb-4483-a843-b07432bab941)
 
-CONCLUSION
-Automating DR detection via CNNs bears substantial significance. Early detection and prompt treatment to prevent vision impairment. Potential enhancement of healthcare accessibility through the web-based prediction platform. As we culminate this major endeavor, we stand proud of our collaborative efforts, from dataset curation to model training and app development. 
-This app embodies the promise of artificial intelligence in healthcare, offering a seamless, user-friendly interface that empowers individuals and healthcare professionals with accurate, timely insights into retinal health. 
+
 
 FUTURE SCOPE OF PROJECT: 
 1. Data Augmentation: Expanding the diversity and size of the training dataset through data augmentation techniques can improve the model's robustness and generalizability. 
@@ -67,3 +65,6 @@ FUTURE SCOPE OF PROJECT:
 5. Multimodal Fusion: Incorporating additional imaging modalities or clinical data sources to augment the model's predictive capabilities and enable more comprehensive disease assessment. 
 6. Mobile Application: Can be made available in regard to the future.
 
+CONCLUSION
+Automating DR detection via CNNs bears substantial significance. Early detection and prompt treatment to prevent vision impairment. Potential enhancement of healthcare accessibility through the web-based prediction platform. As we culminate this major endeavor, we stand proud of our collaborative efforts, from dataset curation to model training and app development. 
+This app embodies the promise of artificial intelligence in healthcare, offering a seamless, user-friendly interface that empowers individuals and healthcare professionals with accurate, timely insights into retinal health. 
