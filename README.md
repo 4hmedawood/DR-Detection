@@ -5,12 +5,16 @@ In recent years, advancements in deep learning and computer vision have shown pr
 
 
 PROBLEM STATEMENT
+
+
 India is said to be the diabetic capital of the world by 2030 with over 80 million people affected by it. Unfortunately, more than 2/3rds of them are from the “subaltern”. In the healthcare field, the treatment of diseases is more effective when detected at an early stage. Diabetes is a disease that increases the amount of glucose in the blood caused by a lack of insulin. It affects 425 million adults worldwide. Diabetes affects the retina, heart, nerves, and kidneys.
 Ophthalmologists used to diagnose eye problems manually, which took a long time. Diabetes is a long-term illness that interferes with our body’s average capacity to digest food. Complications of diabetes include diabetic retinopathy (eye damage), In primarily elderly populations, eye problems are the leading cause of blindness. 
 If identified early, this is a blindness which can be avoided.
 
 
 SYSTEM DESIGN
+
+
 ![image](https://github.com/user-attachments/assets/4a18fce0-e369-405d-84c3-8da894a1ed19)
 
 Setting Up Development Environment: 
