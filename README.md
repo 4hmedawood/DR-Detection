@@ -17,39 +17,30 @@ SYSTEM DESIGN
 
 ![image](https://github.com/user-attachments/assets/4a18fce0-e369-405d-84c3-8da894a1ed19)
 
-Setting Up Development Environment: 
-
+-Setting Up Development Environment: 
 
 Install Python and required libraries (Flask, TensorFlow, Keras, NumPy, PIL). 
-
-
 Create a virtual environment to isolate the project dependencies.
 
 
-Developing the Web Application:
+-Developing the Web Application:
 
 Design and implement the frontend interface using HTML, CSS, and JavaScript. 
-
 Develop the backend server using Flask and implement the prediction logic.
-
 Train and save the machine learning model using TensorFlow and Keras.
 
 
-Testing:
+-Testing:
 
 Test the functionality of each component individually. 
-
 Perform integration testing to ensure seamless communication between frontend, backend, and machine learning model. 
-
 Validate the prediction accuracy of the machine learning model using test datasets.
 
 
-Deployment:
+-Deployment:
 
 Deploy the web application on a server or hosting platform (e.g., Heroku, AWS, or Google Cloud).
-
 Set up a domain name and configure DNS settings if necessary.
-
 Ensure security measures are in place to protect user data and prevent unauthorized access
 
 
